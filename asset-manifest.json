@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/clock-jss-with-react/static/js/main.8c992b35.chunk.js",
+    "main.js.map": "/clock-jss-with-react/static/js/main.8c992b35.chunk.js.map",
+    "runtime-main.js": "/clock-jss-with-react/static/js/runtime-main.ea0eb22e.js",
+    "runtime-main.js.map": "/clock-jss-with-react/static/js/runtime-main.ea0eb22e.js.map",
+    "static/js/2.6697316d.chunk.js": "/clock-jss-with-react/static/js/2.6697316d.chunk.js",
+    "static/js/2.6697316d.chunk.js.map": "/clock-jss-with-react/static/js/2.6697316d.chunk.js.map",
+    "index.html": "/clock-jss-with-react/index.html",
+    "static/js/2.6697316d.chunk.js.LICENSE.txt": "/clock-jss-with-react/static/js/2.6697316d.chunk.js.LICENSE.txt",
+    "static/media/arrow.7b8874ca.mp3": "/clock-jss-with-react/static/media/arrow.7b8874ca.mp3",
+    "static/media/clock.70f4c541.jpg": "/clock-jss-with-react/static/media/clock.70f4c541.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea0eb22e.js",
+    "static/js/2.6697316d.chunk.js",
+    "static/js/main.8c992b35.chunk.js"
+  ]
+}
